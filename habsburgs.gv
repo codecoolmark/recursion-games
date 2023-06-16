@@ -1,0 +1,69 @@
+digraph "Family tree of Habsburg-Lorraine" {
+    node[shape=box];
+    bgcolor="transparent";
+    MariaTheresa17171780 [label="Maria Theresa"];
+    MariaAnna17581789 [label="Maria Anna"];
+
+	MariaTheresa17171780 -> MariaAnna17581789;
+    MariaAmalia17461804 [label="Maria Amalia"];
+
+	MariaTheresa17171780 -> MariaAmalia17461804;
+    MarieChristine17421798 [label="Marie Christine"];
+
+	MariaTheresa17171780 -> MarieChristine17421798;
+    LeopoldII17471792 [label="Leopold II."];
+    MariaTheresia17671827 [label="Maria Theresia"];
+
+	LeopoldII17471792 -> MariaTheresia17671827;
+    FranzIII17681855 [label="Franz II./I."];
+    MarieLouise17911847 [label="Marie Louise"];
+
+	FranzIII17681855 -> MarieLouise17911847;
+    FerdinandI17931848 [label="Ferdinand I."];
+
+	FranzIII17681855 -> FerdinandI17931848;
+    FranzKarl18021878 [label="Franz Karl"];
+
+	FranzIII17681855 -> FranzKarl18021878;
+	LeopoldII17471792 -> FranzIII17681855;
+    FerdinandIII17691824 [label="Ferdinand III."];
+
+	LeopoldII17471792 -> FerdinandIII17691824;
+    Karl17711847 [label="Karl"];
+
+	LeopoldII17471792 -> Karl17711847;
+    Joseph17761847 [label="Joseph"];
+
+	LeopoldII17471792 -> Joseph17761847;
+    Johann17821859 [label="Johann"];
+
+	LeopoldII17471792 -> Johann17821859;
+    Rainer17831853 [label="Rainer"];
+
+	LeopoldII17471792 -> Rainer17831853;
+    Ludwig17841864 [label="Ludwig"];
+
+	LeopoldII17471792 -> Ludwig17841864;
+    Rudolf17881831 [label="Rudolf"];
+
+	LeopoldII17471792 -> Rudolf17881831;
+	MariaTheresa17171780 -> LeopoldII17471792;
+    MariaElisabeth17451808 [label="Maria Elisabeth"];
+
+	MariaTheresa17171780 -> MariaElisabeth17451808;
+    JosephII17411790 [label="Joseph II."];
+
+	MariaTheresa17171780 -> JosephII17411790;
+    MariaKaroline17521814 [label="Maria Karoline"];
+
+	MariaTheresa17171780 -> MariaKaroline17521814;
+    MariaAntonia17551793 [label="Maria Antonia"];
+
+	MariaTheresa17171780 -> MariaAntonia17551793;
+    Ferdinand17541806 [label="Ferdinand"];
+
+	MariaTheresa17171780 -> Ferdinand17541806;
+    Maximilian17561801 [label="Maximilian"];
+
+	MariaTheresa17171780 -> Maximilian17561801;
+}

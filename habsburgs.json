@@ -1,0 +1,118 @@
+{
+  "name": "Family tree of Habsburg-Lorraine",
+  "tree": {
+    "name": "Maria Theresa",
+    "yearOfBirth": 1717,
+    "yearOfDeath": 1780,
+    "spouses": [{
+      "name": "Franz I. Stephan",
+      "yearOfBirth": 1708,
+      "yearOfDeath": 1765
+    }],
+    "children": [{
+      "name": "Maria Anna",
+      "yearOfBirth": 1758,
+      "yearOfDeath": 1789
+    },
+    {
+      "name": "Maria Amalia",
+      "yearOfBirth": 1746,
+      "yearOfDeath": 1804
+    }, {
+      "name": "Marie Christine",
+      "yearOfBirth": 1742,
+      "yearOfDeath": 1798
+    },{
+      "name": "Leopold II.",
+      "yearOfBirth": 1747,
+      "yearOfDeath": 1792,
+      "spouses": [{
+        "name": "Maria Ludovica of Bourbon Spain"
+      }],
+      "children": [{
+        "name": "Maria Theresia",
+        "yearOfBirth": 1767,
+        "yearOfDeath": 1827
+      }, {
+        "name": "Franz II./I.",
+        "yearOfBirth": 1768,
+        "yearOfDeath": 1855,
+        "spouses": [{
+            "name": "Elisabeth of Württemberg"
+          }, {
+            "name": "Maria Theresa of Bourbon-Naples"
+          }, {
+            "name": "Maria Ludovica of Modena"
+          }, {
+            "name": "Caroline Aguste of Bavaria"
+          }
+        ],
+        "children": [{
+          "name": "Marie Louise",
+          "yearOfBirth": 1791,
+          "yearOfDeath": 1847
+        }, {
+          "name": "Ferdinand I.",
+          "yearOfBirth": 1793,
+          "yearOfDeath": 1848
+        }, {
+          "name": "Franz Karl",
+          "yearOfBirth": 1802,
+          "yearOfDeath": 1878
+        }]
+      }, {
+        "name": "Ferdinand III.", 
+        "yearOfBirth": 1769,
+        "yearOfDeath": 1824
+      }, {
+        "name": "Karl",
+        "yearOfBirth": 1771,
+        "yearOfDeath": 1847
+      }, {
+        "name": "Joseph",
+        "yearOfBirth": 1776,
+        "yearOfDeath": 1847
+      }, {
+        "name": "Johann",
+        "yearOfBirth": 1782,
+        "yearOfDeath": 1859
+      }, {
+        "name": "Rainer",
+        "yearOfBirth": 1783,
+        "yearOfDeath": 1853
+      }, {
+        "name": "Ludwig",
+        "yearOfBirth": 1784,
+        "yearOfDeath": 1864
+      }, {
+        "name": "Rudolf",
+        "yearOfBirth": 1788,
+        "yearOfDeath": 1831
+      }]
+    }, {
+      "name": "Maria Elisabeth",
+      "yearOfBirth": 1745,
+      "yearOfDeath": 1808
+    }, {
+      "name": "Joseph II.",
+      "yearOfBirth": 1741,
+      "yearOfDeath": 1790
+    }, {
+      "name": "Maria Karoline",
+      "yearOfBirth": 1752,
+      "yearOfDeath": 1814
+    }, {
+      "name": "Maria Antonia",
+      "yearOfBirth": 1755,
+      "yearOfDeath": 1793
+    },{
+      "name": "Ferdinand",
+      "yearOfBirth": 1754,
+      "yearOfDeath": 1806
+    }, {
+      "name": "Maximilian",
+      "yearOfBirth": 1756,
+      "yearOfDeath": 1801 
+    }]
+  }
+}

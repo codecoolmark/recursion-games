@@ -1,0 +1,13 @@
+digraph "Stark" {
+    node[shape=box];
+    bgcolor="transparent";
+    "Richard Stark" -> "Eddard Stark"
+    "Richard Stark" -> "Brandon Stark"
+    "Richard Stark" -> "Lyanna Stark"
+    "Richard Stark" -> "Benjen Stark"
+    "Eddard Stark" -> "Robb Stark"
+    "Eddard Stark" -> "Sansa Stark"
+    "Eddard Stark" -> "Arya Stark"
+    "Eddard Stark" -> "Bran Stark"
+    "Eddard Stark" -> "Rickon Stark"
+}

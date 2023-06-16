@@ -1,0 +1,26 @@
+{
+    "name": "Family tree of the Starks",
+    "tree": {
+        "name": "Richard Stark",
+        "children": [{
+            "name": "Eddard Stark",
+            "children": [{
+                "name": "Robb Stark"
+            }, {
+                "name": "Sansa Stark"
+            }, {
+                "name": "Arya Stark"
+            }, {
+                "name": "Bran Stark"
+            }, {
+                "name": "Rickon Stark"
+            }]
+        }, {
+            "name": "Brandon Stark"
+        }, {
+            "name": "Lyanna Stark"
+        }, {
+            "name": "Benjen Stark"
+        }]
+    }
+}
